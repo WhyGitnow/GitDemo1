@@ -49,3 +49,4 @@ Deferred:
 -------------
 The bug which developer feels that it can be fixed later on the upcoming sprints/releases.
 
+defect lifecycle added
